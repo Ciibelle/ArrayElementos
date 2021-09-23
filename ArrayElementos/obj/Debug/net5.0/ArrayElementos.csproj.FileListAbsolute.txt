@@ -1,0 +1,16 @@
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.csproj.AssemblyReference.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.AssemblyInfoInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.AssemblyInfo.cs
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.csproj.CoreCompileInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.exe
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.deps.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.runtimeconfig.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.runtimeconfig.dev.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ref\ArrayElementos.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\bin\Debug\net5.0\ArrayElementos.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ref\ArrayElementos.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasRepetição\ArrayElementos\obj\Debug\net5.0\ArrayElementos.genruntimeconfig.cache
