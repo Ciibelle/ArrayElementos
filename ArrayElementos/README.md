@@ -8,3 +8,4 @@
 6- git push origin <branch> (onde branch é o nome da ramificação que estaremos usando, neste caso usamos a master)
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+teste
